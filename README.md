@@ -17,7 +17,7 @@ Working logic :-
 
 
 How can new learner can use this project .
-1. git clone https://github.com/abyshk-np/django-todo-app( run this command in terminal)
+1. git clone https://github.com/abyshk-np/django-todo-app (run this command in terminal)
 2. cd Todo (Go to project folder)
 3. python -m venv env ( Create virtual environment)
 4. env\Scripts\activate (env\Scripts\activate )
