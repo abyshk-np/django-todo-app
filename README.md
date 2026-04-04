@@ -6,7 +6,7 @@ Features:-
 > Mark tasks as complete/incomplete
 > updates tasks anytime
 
-For frontend i have used HTML CSS and Bootstrap .(Bootstrap with help of internet not very familiar with Bootstrap still in learning phase.)
+For frontend i have used HTML CSS and Bootstrap .(Bootstrap and project with help of internet not very familiar with Bootstrap still in learning phase.)
 
 
 Working logic :-
@@ -27,5 +27,14 @@ How can new learner can use this project .
 
 
 
+ 
+## These are Screenshots of my project 
+
+![Screenshot 224307](screenshots/Screenshot%202026-04-03%20224307.png)
+![Screenshot 224318](screenshots/Screenshot%202026-04-03%20224318.png)
+![Screenshot 224330](screenshots/Screenshot%202026-04-03%20224330.png)
+![Screenshot 224340](screenshots/Screenshot%202026-04-03%20224340.png)
+![Screenshot 224402](screenshots/Screenshot%202026-04-03%20224402.png)
+![Screenshot 224414](screenshots/Screenshot%202026-04-03%20224414.png)
 
 
